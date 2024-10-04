@@ -1,0 +1,1 @@
+shred -fzun 3 $1.o $1
