@@ -6,6 +6,7 @@ make
 make fclean (to clean up after usage)  
 
 # Usage
-./my\_test --> then you're going to insert some characters to test the read() function  
+./my\_test --> then you're going to insert some characters to test the read() function
+
 
 Enjoy!
